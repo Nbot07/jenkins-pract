@@ -15,5 +15,3 @@ After setting up the test suite for our dummy application, we will add a Github 
 <br>
 
 > *THIS IS CALLED **CONTINUOUS INTEGRATION***
-
-testing 1, 2, 3
